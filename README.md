@@ -25,7 +25,7 @@ O projeto foi desenvolvido como atividade acadêmica, aplicando conceitos de API
 Clone o repositório e acesse a pasta do projeto:
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/carlosalves2301/api-gerenciamento-pedidos.git
 cd api-gerenciamento-pedidos
 ```
 
